@@ -4,4 +4,5 @@ HLA benchmarking project
 
 # STAR genomoegenerate
 working directory
-> STAR -o inputfile
+  STAR -o inputfile
+  samtools view -f
