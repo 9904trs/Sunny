@@ -11,5 +11,7 @@
 
 * Gencode Release 34 annotation.gtf
 
+        wget ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_34/gencode.v34.annotation.gtf.gz
+
 
 
