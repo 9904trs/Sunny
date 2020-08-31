@@ -27,5 +27,5 @@
 
         ./install/path/STAR --runThreadN 4 --runMode genomeGenerate --genomeDir ./output/dir --genomeFastaFiles ./reference/dir/GRCh38.primary_assembly.genome.fa --sjdbGTFfile ./GTF/dir/gencode.v34.annotation.gtf.gz 
         
-#### STAR alignment :
+## STAR Alignment 
 
